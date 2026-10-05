@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permissions": [
+    { "action": "subagent", "resource": "*", "effect": "allow" }
+  ],
+  "agents": {
+    "general": {
+      "model": "xiaomi/mimo-v2.6-pro#high"
+    },
+    "explore": {
+      "model": "xiaomi/mimo-v2.6-pro#high"
+    }
+  }
+}
