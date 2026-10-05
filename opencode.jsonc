@@ -5,10 +5,10 @@
   ],
   "agents": {
     "general": {
-      "model": "xiaomi/mimo-v2.6-pro#high"
+      "model": "xiaomi/mimo-v2.6-pro"
     },
     "explore": {
-      "model": "xiaomi/mimo-v2.6-pro#high"
+      "model": "xiaomi/mimo-v2.6-pro"
     }
   }
 }
